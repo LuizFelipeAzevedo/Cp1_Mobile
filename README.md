@@ -37,4 +37,6 @@ O projeto utiliza **Navigation** para alternar entre as telas de tarefas e confi
    ```bash
    npm install 
 2. Inicie o projeto :
+   ```bash
    npx expo start
+3. Escaneie o QR code no seu dispositivo utilizando o aplicativo Expo Go ou execute no emulador.
