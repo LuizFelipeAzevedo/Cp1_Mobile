@@ -1,4 +1,4 @@
-# Task Manager - Grupo Criativo
+# Task Manager 
 
 ## Descrição do Projeto
 
